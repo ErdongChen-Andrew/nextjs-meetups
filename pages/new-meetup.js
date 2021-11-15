@@ -24,7 +24,7 @@ const NewMeetup = () => {
     <>
       <Head>
       <title>Add a New Meetup</title>
-      <Meta
+      <meta
         name="description"
         content="Add your own meetups and create amazing networking opportunities!"
       />
