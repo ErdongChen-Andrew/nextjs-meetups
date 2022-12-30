@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: space-between;
   background-color: #FF5C58;
-  padding: 0 10%;
+  padding: 0 5%;
 }
 
 .logo {
@@ -23,12 +23,12 @@
 }
 
 .header li {
-  margin-left: 3rem;
+  margin-left: 2rem;
 }
 
 .header a {
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #FCD2D1;
 }
 
@@ -37,3 +37,4 @@
 .header a.active {
   color: white;
 }
+
